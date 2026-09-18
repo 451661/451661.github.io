@@ -7,4 +7,5 @@ Static GitHub Pages site for layoutcam.
 - `terms.html` / `terms_zh.html` — terms of use
 
 App Store ID: `6471819700`  
-Support: `67kings@gmail.com`
+Website: `http://50mm.top/layoutcam/index.html`
+Support: `apps50mm@outlook.com`
